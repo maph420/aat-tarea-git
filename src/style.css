@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(155, 96, 23, 0.831);
+}
+
+.title{
+    text-align: center;
+}
+.racc-info{
+    margin: auto 0;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.racc-img{
+    text-align: center;
+}
